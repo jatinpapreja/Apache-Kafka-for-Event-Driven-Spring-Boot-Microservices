@@ -1,4 +1,4 @@
-package com.apachekakfkamicroservices.ws.ProductsMicroservice.service;
+package com.apachekafkamicroservices.ws.Core;
 
 import java.math.BigDecimal;
 

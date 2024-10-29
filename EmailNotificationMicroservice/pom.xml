@@ -9,10 +9,10 @@
 		<version>3.3.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.apachekakfkamicroservices.ws</groupId>
-	<artifactId>ProductsMicroservice</artifactId>
+	<groupId>com.apachekafkamicroservices.ws</groupId>
+	<artifactId>EmailNotificationMicroservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ProductsMicroservice</name>
+	<name>EmailNotificationMicroservice</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
@@ -37,12 +37,7 @@
 			<artifactId>Core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
